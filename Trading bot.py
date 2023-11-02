@@ -16,7 +16,7 @@ def pairs_trading_algo(self):
     # The mail addresses and password
     sender_address = 'trading.algo15@gmail.com'
     sender_pass = '**********'
-    receiver_address = 'adityaraj1711@gmail.com'
+    receiver_address = 'adityaraj17111990@gmail.com'
     
     message = MIMEMultipart()
     message['From'] = 'Trading Bot'
